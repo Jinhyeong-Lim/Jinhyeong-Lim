@@ -14,7 +14,7 @@
   - Machine Learning
   - Natural Language Processing
       - Text Summarization
-      - Serving to Web Application   
+      - Machien Learning Serving to Web Application   
 
 <br>
 
