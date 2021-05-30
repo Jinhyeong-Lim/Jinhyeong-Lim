@@ -13,6 +13,8 @@
 #### 🌱 I’m currently learning ...
   - Machine Learning
   - Natural Language Processing
+      - Text Summarization
+      - Serving to Web Application   
 
 <br>
 
