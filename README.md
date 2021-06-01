@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🙋‍♂️ Profile
-  -  Department of Information and Tech Engineering, Jeonbuk National University
+  -  Department of Information Technology, Jeonbuk National University
   -  Jeonbuk National University Natural Language Learning LAB
 
 #### 🏆 Awards
