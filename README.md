@@ -12,10 +12,9 @@
   
 #### 🌱 I’m currently learning ...
   - Machine Learning
+  - Continual Learning 
   - Natural Language Processing
-      - Machine Learning
       - Topic Modeling
-      - Continual Learning 
 
 <br>
 
