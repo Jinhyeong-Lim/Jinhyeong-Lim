@@ -13,8 +13,9 @@
 #### 🌱 I’m currently learning ...
   - Machine Learning
   - Natural Language Processing
-      - Text Summarization
-      - Machien Learning Serving to Web Application   
+      - Machine Learning
+      - Topic Modeling
+      - Continual Learning 
 
 <br>
 
