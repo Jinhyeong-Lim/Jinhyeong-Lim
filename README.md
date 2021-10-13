@@ -10,7 +10,7 @@
 #### 💻 Online Judge
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlawlsgud)](https://solved.ac/dlawlsgud)
   
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m learning about...
   - Machine Learning
   - Continual Learning 
   - Natural Language Processing
