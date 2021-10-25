@@ -7,8 +7,8 @@
 #### 🏆 Awards
   -  Advanced to ACM-ICPC Seoul Regional
 
-#### 💻 Online Judge
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlawlsgud)](https://solved.ac/dlawlsgud)
+<!-- #### 💻 Online Judge
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlawlsgud)](https://solved.ac/dlawlsgud) -->
   
 #### 🌱 I’m learning about...
   - Machine Learning
