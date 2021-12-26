@@ -3,6 +3,7 @@
 #### 🙋‍♂️ Profile
   -  Department of Information Technology, Jeonbuk National University
   -  Jeonbuk National University Natural Language Learning LAB
+  -  NAVER Clova Speech Intern
 
 #### 🏆 Awards
   -  Advanced to ACM-ICPC Seoul Regional
@@ -10,12 +11,6 @@
 <!-- #### 💻 Online Judge
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlawlsgud)](https://solved.ac/dlawlsgud) -->
   
-#### 🌱 I’m currently learning...
-  - Machine Learning
-  - Continual Learning 
-  - Natural Language Processing
-      - Topic Modeling
-
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinhyeong-Lim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
