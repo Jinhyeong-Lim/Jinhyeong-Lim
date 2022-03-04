@@ -3,7 +3,6 @@
 #### 🙋‍♂️ Profile
   -  Department of Information Technology, Jeonbuk National University
   -  Jeonbuk National University Natural Language Learning LAB
-  -  NAVER Clova Speech Intern
 
 #### 🏆 Awards
   -  Advanced to ACM-ICPC Seoul Regional
