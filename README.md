@@ -3,6 +3,7 @@
 #### 🙋‍♂️ Profile
   -  Department of Information Technology, Jeonbuk National University
   -  Jeonbuk National University Natural Language Learning LAB
+  -  NAVER CLOVA Intern 2021.12.06 ~ 2022.03.04
 
 #### 🏆 Awards
   -  Advanced to ACM-ICPC Seoul Regional
