@@ -3,10 +3,12 @@
 #### 🙋‍♂️ Profile
   -  Department of Information Technology, Jeonbuk National University
   -  Jeonbuk National University Natural Language Learning LAB
-  -  NAVER CLOVA Intern 2021.12.06 ~ 2022.03.04
+
+#### :office: Experience
+  - 2021.12.06 ~ 2022.03.04 Research Intern. Clova Speech NLP, Naver Corp
 
 #### 🏆 Awards
-  -  Advanced to ACM-ICPC Seoul Regional
+  -  Advanced to ACM-ICPC 2020-Asia Seoul
 
 <!-- #### 💻 Online Judge
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlawlsgud)](https://solved.ac/dlawlsgud) -->
